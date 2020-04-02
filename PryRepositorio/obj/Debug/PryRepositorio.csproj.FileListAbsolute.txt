@@ -1,0 +1,1276 @@
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\salak403\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+E:\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+E:\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+E:\repos\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+E:\repos\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\repos\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+E:\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+E:\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+E:\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+E:\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+D:\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\González Peña\source\repos\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Downloads\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180924\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20180926\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salak401\source\repos\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+E:\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll.config
+E:\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\PryRepositorio.pdb
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.exe.config
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csc.rsp
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.exe.config
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\csi.rsp
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.AppContext.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Console.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.exe.config
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\vbc.rsp
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+E:\PryRepositorio 01102018\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+E:\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PryRepositorio 01102018\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+E:\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+E:\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+E:\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.dll
+E:\PryRepositorio 01102018\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\salak403\source\repos\PryRepositorio20181004\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\Sergio\PryRepositorio20181005\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\salak401\source\repos\PryRepositorio20181008\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salak403\source\repos\PryRepositorio20181011\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\González Peña\source\repos\PryRepositorio20181017\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\salak401\source\repos\PryRepositorio20181022\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181025\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\JuanFeLds\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181105\PryRepositorio\obj\Debug\PryRepositorio.pdb
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\PryRepositorio.dll.config
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\PryRepositorio.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\PryRepositorio.pdb
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\csc.exe
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\csc.exe.config
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\csc.rsp
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\csi.exe
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\csi.exe.config
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\csi.rsp
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.AppContext.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Console.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Threading.Thread.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\vbc.exe
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\vbc.exe.config
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\vbc.rsp
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\obj\Debug\PryRepositorio.csprojAssemblyReference.cache
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\obj\Debug\PryRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\obj\Debug\PryRepositorio.csproj.CopyComplete
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\obj\Debug\PryRepositorio.dll
+C:\Users\exito\Documents\Desarrollo Software\Proyecto Alejandria\PryRepositorio20181112\PryRepositorio20181112\PryRepositorio\obj\Debug\PryRepositorio.pdb
